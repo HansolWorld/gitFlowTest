@@ -10,3 +10,4 @@ Git Flow를 테스트하기 위한 레포
 6. hotfix에서 main으로 머지함
 7. hotfix에서 develope으로 머지함
 8. develop 수정함
+9. main에서 hotfix 만들어서 수정함
